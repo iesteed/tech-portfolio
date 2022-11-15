@@ -13,8 +13,8 @@ const users = [];
 
 const siteConfig = {
     title: 'Ian E. Steed', // Title for your website.
-    tagline: 'New, Passionate, aspiring college student.',
-    profilePhoto: 'assets/mewo.jpg',
+    tagline: 'New, passionate, aspiring college student.',
+    profilePhoto: 'img/mewo.jpg',
     url: 'https://iesteed.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'ian-steed-aa96b1249',
-        twitter: 'N/A',
+        twitter: 'N/A', // I don't use Twitter.
         github: 'iesteed',
     },
 
